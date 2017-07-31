@@ -1,3 +1,0 @@
-# tampermonkey
-Tampermonkey scripts
-pwet
